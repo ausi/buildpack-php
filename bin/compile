@@ -45,8 +45,6 @@ PROJECT_ROOT=$BUILD_DIR/$CODE_DIR
 
 cd $BUILD_DIR
 
-echo "buildpack-test" > test.txt
-
 # Load buildpack environment
 if [[ -f .buildpack/envrc ]]; then
     source .buildpack/envrc

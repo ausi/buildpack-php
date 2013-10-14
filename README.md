@@ -1,3 +1,5 @@
+# This is only for testing. Do not use it!
+
 # PHP buildpack
 This is the [cloudControl PaaS](https://www.cloudcontrol.com) PHP buildpack conforming to the [Heroku buildpack api](https://devcenter.heroku.com/articles/buildpack-api). It runs PHP applications using Apache and PHP-FPM.
 
